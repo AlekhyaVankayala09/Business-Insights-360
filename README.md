@@ -44,3 +44,15 @@ gdb056:
 - manufacturing_cost
 - Pre_invoice_dedutions
 - Post_invoice_deductions
+
+
+## The Role of Data Modeling in Effective Analytics
+In this project, data was extracted from MySQL and imported into Power BI, where it underwent cleaning, transformation, and structuring into a well-defined data model. But why is data modeling so crucial for analytics?
+
+A data analyst’s workflow typically follows these four key stages:
+
+✅ Data Extraction → ✅ Data Cleaning → ✅ Data Modeling → ✅ Data Analysis
+
+Among these, Data Modeling plays a pivotal role in bridging raw data with meaningful insights. A well-structured data model ensures accuracy, efficiency, and seamless report performance, enabling smooth interactivity and reliable decision-making. Conversely, poor modeling can lead to slow reports, inaccurate insights, and performance issues.
+
+By implementing a robust data model, this project maximized the potential of Power BI, ensuring data-driven decision-making across all business functions.
