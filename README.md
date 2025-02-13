@@ -19,3 +19,13 @@ To stay ahead in a competitive market, AltiQ Hardware adopted Power BI to transf
 As part of this transformation, I applied my skills from the Codebasics Power BI Course to design impactful dashboards and reports, enabling the company to optimize operations and drive growth.
 
 Link for the Business Insights 360 Dashboard - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGJiNDcxNWYtYjE2MC00ZTE0LWI1YWUtNDgzMGY2ZDFiZGIxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+## Datasets
+
+Before diving into analysis, understanding the datasets is crucial. The datasets consist of two tables:
+
+Dimension table: Static data like customer and product details.
+
+Fact table: Transaction data.
+
+gdb041:
