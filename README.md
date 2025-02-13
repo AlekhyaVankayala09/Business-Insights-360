@@ -11,3 +11,9 @@
 6. [Business Terms Learned](#business-terms-learned)
 
 ## Project Overview
+
+AltiQ Hardware, a rapidly expanding global company, specializes in selling computers and accessories through retailers, direct sales, and distributors. With its growing presence, the company sought to enhance its decision-making process by leveraging data-driven insights.
+
+To stay ahead in a competitive market, AltiQ Hardware adopted Power BI to transform raw data into meaningful business intelligence. This initiative empowered stakeholders across various departments—finance, sales, marketing, and supply chain—to make informed strategic decisions.
+
+As part of this transformation, I applied my skills from the Codebasics Power BI Course to design impactful dashboards and reports, enabling the company to optimize operations and drive growth.
