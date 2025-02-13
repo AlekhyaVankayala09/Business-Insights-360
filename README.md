@@ -125,7 +125,7 @@ This executive dashboard consolidates essential metrics, enabling informed strat
 ## Key Power BI Techniques Learned
 Throughout this project, various Power BI techniques were applied, including:
 
-✔️ Defining business objectives and key metrics before project execution
+✔️ Defining business objectives and key metrics before project execution.
 ✔️ Building calculated columns and creating DAX measures for insights
 ✔️ Effective data modeling for optimized report performance
 ✔️ Implementing Bookmarks and dynamic navigation with buttons
