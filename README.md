@@ -67,7 +67,7 @@ The dashboard comprises six pages
 
 #### Home Page: A landing page with buttons to navigate to different pages.
 
-![image]
+![image](https://github.com/AlekhyaVankayala09/Business-Insights-360/blob/fa900c5c403c0f2f79d60e7761f452dff3537b84/Home.pdf)
 
 #### Finance Page Overview : This page is designed to streamline financial planning, improve budgeting strategies, and enhance cost control. It provides key insights, including
 
