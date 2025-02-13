@@ -67,7 +67,7 @@ The dashboard comprises six pages
 
 #### Home Page: A landing page with buttons to navigate to different pages.
 
-![image](https://github.com/AlekhyaVankayala09/Business-Insights-360/blob/fa900c5c403c0f2f79d60e7761f452dff3537b84/Home.pdf)
+![image](https://github.com/AlekhyaVankayala09/Business-Insights-360/blob/e979bd78b4eb8e7e695fc1c86843b44e78a5f82f/Home.jpg)
 
 #### Finance Page Overview : This page is designed to streamline financial planning, improve budgeting strategies, and enhance cost control. It provides key insights, including
 
@@ -77,7 +77,7 @@ The dashboard comprises six pages
 
 With these insights, stakeholders can make data-driven financial decisions to maximize profitability and sustain business growth.
 
-![image]
+![image](https://github.com/AlekhyaVankayala09/Business-Insights-360/blob/e979bd78b4eb8e7e695fc1c86843b44e78a5f82f/Finance%20View.jpg)
 
 #### Sales Page Overview : The Sales Page provides valuable insights to boost revenue and expand market presence. Key highlights include
 
@@ -87,7 +87,7 @@ With these insights, stakeholders can make data-driven financial decisions to ma
 
 By leveraging these insights, decision-makers can refine strategies, strengthen customer relationships, and drive sustainable profitability.
 
-![image]
+![image](https://github.com/AlekhyaVankayala09/Business-Insights-360/blob/e979bd78b4eb8e7e695fc1c86843b44e78a5f82f/Sales%20View.jpg)
 
 #### Marketing Page Overview : The Marketing Page provides data-driven insights to enhance brand reach and customer engagement. Key insights include
 
@@ -97,7 +97,7 @@ By leveraging these insights, decision-makers can refine strategies, strengthen 
   
 With these insights, stakeholders can fine-tune marketing strategies for greater impact and efficiency.
 
-![image]
+![image](https://github.com/AlekhyaVankayala09/Business-Insights-360/blob/e979bd78b4eb8e7e695fc1c86843b44e78a5f82f/Marketing%20View.jpg)
 
 #### Supply Chain Page Overview : The Supply Chain Page helps optimize inventory, improve demand forecasting, and enhance supplier relationships. Key highlights include
 
@@ -107,7 +107,7 @@ With these insights, stakeholders can fine-tune marketing strategies for greater
 
 This page ensures smooth supply chain performance, reducing waste and enhancing cost-effectiveness.
 
-![image]
+![image](https://github.com/AlekhyaVankayala09/Business-Insights-360/blob/e979bd78b4eb8e7e695fc1c86843b44e78a5f82f/Supply%20Chain%20View.jpg)
 
 #### Executive Page Overview : The Executive Page offers a high-level overview of business performance, empowering leadership with key insights
 
@@ -119,7 +119,7 @@ This page ensures smooth supply chain performance, reducing waste and enhancing 
 
 This executive dashboard consolidates essential metrics, enabling informed strategic planning.
 
-![image]
+![image](https://github.com/AlekhyaVankayala09/Business-Insights-360/blob/e979bd78b4eb8e7e695fc1c86843b44e78a5f82f/Executive%20view.jpg)
 
 
 ## Key Power BI Techniques Learned
