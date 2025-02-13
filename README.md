@@ -68,3 +68,25 @@ The dashboard comprises six pages
 #### Home Page: A landing page with buttons to navigate to different pages.
 
 ![image]
+
+#### Finance Page Overview
+This page is designed to streamline financial planning, improve budgeting strategies, and enhance cost control. It provides key insights, including:
+
+- Profit and Loss Overview – A detailed snapshot of financial performance.
+- Best & Least Performing Products – Identify top-selling products and those needing attention.
+- Customer Revenue Insights – Recognize high-value customers and opportunities for growth.
+
+With these insights, stakeholders can make data-driven financial decisions to maximize profitability and sustain business growth.
+
+![image]
+
+#### Sales Page Overview
+The Sales Page provides valuable insights to boost revenue and expand market presence. Key highlights include:
+
+- Customer Contribution Analysis – Understand each customer’s impact on total sales.
+- Gross Margin Insights – Assess profitability and efficiency across products or services.
+- Sales Trends & Patterns – Identify growth opportunities through in-depth analysis.
+
+By leveraging these insights, decision-makers can refine strategies, strengthen customer relationships, and drive sustainable profitability.
+
+![image]
