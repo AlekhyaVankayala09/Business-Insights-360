@@ -56,3 +56,7 @@ A data analyst’s workflow typically follows these four key stages:
 Among these, Data Modeling plays a pivotal role in bridging raw data with meaningful insights. A well-structured data model ensures accuracy, efficiency, and seamless report performance, enabling smooth interactivity and reliable decision-making. Conversely, poor modeling can lead to slow reports, inaccurate insights, and performance issues.
 
 By implementing a robust data model, this project maximized the potential of Power BI, ensuring data-driven decision-making across all business functions.
+
+In this project, we adopted the Snowflake schema for data modeling, ensuring a scalable and optimized foundation for building meaningful visualizations and reports.
+
+![Data Modelling image]
