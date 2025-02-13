@@ -69,7 +69,7 @@ The dashboard comprises six pages
 
 ![image]
 
-#### Finance Page Overview : This page is designed to streamline financial planning, improve budgeting strategies, and enhance cost control. It provides key insights, including:
+#### Finance Page Overview : This page is designed to streamline financial planning, improve budgeting strategies, and enhance cost control. It provides key insights, including
 
 - Profit and Loss Overview – A detailed snapshot of financial performance.
 - Best & Least Performing Products – Identify top-selling products and those needing attention.
@@ -79,7 +79,7 @@ With these insights, stakeholders can make data-driven financial decisions to ma
 
 ![image]
 
-#### Sales Page Overview : The Sales Page provides valuable insights to boost revenue and expand market presence. Key highlights include:
+#### Sales Page Overview : The Sales Page provides valuable insights to boost revenue and expand market presence. Key highlights include
 
 - Customer Contribution Analysis – Understand each customer’s impact on total sales.
 - Gross Margin Insights – Assess profitability and efficiency across products or services.
@@ -88,3 +88,74 @@ With these insights, stakeholders can make data-driven financial decisions to ma
 By leveraging these insights, decision-makers can refine strategies, strengthen customer relationships, and drive sustainable profitability.
 
 ![image]
+
+#### Marketing Page Overview : The Marketing Page provides data-driven insights to enhance brand reach and customer engagement. Key insights include
+
+- Profitability by Market Segment – Analyze Gross Margin % to assess the most lucrative segments.
+- Net Profit Performance – Evaluate the financial impact across customer and product categories.
+- Marketing Trends & Optimization – Uncover opportunities to refine campaigns and maximize ROI.
+  
+With these insights, stakeholders can fine-tune marketing strategies for greater impact and efficiency.
+
+![image]
+
+#### Supply Chain Page Overview : The Supply Chain Page helps optimize inventory, improve demand forecasting, and enhance supplier relationships. Key highlights include
+
+- Forecast Accuracy – Measure demand prediction precision to prev
+- Net Error Analysis – Identify gaps between forecasted and actual demand.
+- Supply Chain Optimization – Leverage data to streamline operations and drive cost efficiency.
+
+This page ensures smooth supply chain performance, reducing waste and enhancing cost-effectiveness.
+
+![image]
+
+#### Executive Page Overview : The Executive Page offers a high-level overview of business performance, empowering leadership with key insights
+
+- Net Sales Overview – Track overall revenue trends.
+- Profitability Metrics – Monitor Gross Margin % and Net Profit % to assess financial health.
+- Revenue Breakdown – Analyze sales performance across different channels (Retail, Direct, Distributors).
+- Top Customers & Products – Identify primary revenue drivers.
+- Geographical Insights – Evaluate sub-regional performance for targeted decision-making.
+
+This executive dashboard consolidates essential metrics, enabling informed strategic planning.
+
+![image]
+
+
+## Key Power BI Techniques Learned
+Throughout this project, various Power BI techniques were applied, including:
+
+✔️ Defining business objectives and key metrics before project execution
+✔️ Building calculated columns and creating DAX measures for insights
+✔️ Effective data modeling for optimized report performance
+✔️ Implementing Bookmarks and dynamic navigation with buttons
+✔️ Preventing calculation errors using the DIVIDE function
+✔️ Applying dynamic titles and KPI indicators
+✔️ Conditional formatting for better data visualization
+✔️ Data validation techniques for accuracy
+✔️ Publishing reports to Power BI Service and setting up auto-refresh with a personal gateway
+✔️ Developing Power BI Apps for collaboration and access management
+
+## Tools Used
+✅ SQL – Data extraction and transformation
+✅ Power BI Desktop – Dashboard creation and report building
+✅ DAX Language – Creating calculated fields and advanced analytics
+✅ DAX Studio – Optimizing performance and reducing file size
+✅ Project Charter – Defining objectives and structuring the project
+
+## Key Business Terms Explored
+📌 Gross Margin, Gross Margin %, Gross Sales, Net Sales
+📌 Pre-Invoice & Post-Invoice Deductions, Net Invoice Sales
+📌 Net Profit, Net Profit %, COGS (Cost of Goods Sold)
+📌 YTD (Year to Date), YTG (Year to Go)
+📌 Direct Sales, Retailers, Consumers, Distributors
+
+💡 Your feedback is invaluable! Let’s keep exploring data-driven solutions together. 🚀
+
+
+
+
+
+
+
+
