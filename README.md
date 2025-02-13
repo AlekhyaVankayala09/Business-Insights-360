@@ -17,3 +17,5 @@ AltiQ Hardware, a rapidly expanding global company, specializes in selling compu
 To stay ahead in a competitive market, AltiQ Hardware adopted Power BI to transform raw data into meaningful business intelligence. This initiative empowered stakeholders across various departments—finance, sales, marketing, and supply chain—to make informed strategic decisions.
 
 As part of this transformation, I applied my skills from the Codebasics Power BI Course to design impactful dashboards and reports, enabling the company to optimize operations and drive growth.
+
+Link for the Business Insights 360 Dashboard - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGJiNDcxNWYtYjE2MC00ZTE0LWI1YWUtNDgzMGY2ZDFiZGIxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
