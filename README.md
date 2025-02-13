@@ -59,4 +59,4 @@ By implementing a robust data model, this project maximized the potential of Pow
 
 In this project, we adopted the Snowflake schema for data modeling, ensuring a scalable and optimized foundation for building meaningful visualizations and reports.
 
-![Data Modelling image]
+![Data Modelling image](https://github.com/AlekhyaVankayala09/Business-Insights-360/blob/ef8a757b51b24c2bde52040fc0dbbc63049fcef6/Data%20Modelling%20image.jpg)
