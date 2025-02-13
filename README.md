@@ -125,30 +125,30 @@ This executive dashboard consolidates essential metrics, enabling informed strat
 ## Key Power BI Techniques Learned
 Throughout this project, various Power BI techniques were applied, including:
 
-✔️ Defining business objectives and key metrics before project execution.
-✔️ Building calculated columns and creating DAX measures for insights
-✔️ Effective data modeling for optimized report performance
-✔️ Implementing Bookmarks and dynamic navigation with buttons
-✔️ Preventing calculation errors using the DIVIDE function
-✔️ Applying dynamic titles and KPI indicators
-✔️ Conditional formatting for better data visualization
-✔️ Data validation techniques for accuracy
-✔️ Publishing reports to Power BI Service and setting up auto-refresh with a personal gateway
-✔️ Developing Power BI Apps for collaboration and access management
+- ✔️ Defining business objectives and key metrics before project execution.
+- ✔️ Building calculated columns and creating DAX measures for insights
+- ✔️ Effective data modeling for optimized report performance
+- ✔️ Implementing Bookmarks and dynamic navigation with buttons
+- ✔️ Preventing calculation errors using the DIVIDE function
+- ✔️ Applying dynamic titles and KPI indicators
+- ✔️ Conditional formatting for better data visualization
+- ✔️ Data validation techniques for accuracy
+- ✔️ Publishing reports to Power BI Service and setting up auto-refresh with a personal gateway
+- ✔️ Developing Power BI Apps for collaboration and access management
 
 ## Tools Used
-✅ SQL – Data extraction and transformation
-✅ Power BI Desktop – Dashboard creation and report building
-✅ DAX Language – Creating calculated fields and advanced analytics
-✅ DAX Studio – Optimizing performance and reducing file size
-✅ Project Charter – Defining objectives and structuring the project
+- ✅ SQL – Data extraction and transformation
+- ✅ Power BI Desktop – Dashboard creation and report building
+- ✅ DAX Language – Creating calculated fields and advanced analytics
+- ✅ DAX Studio – Optimizing performance and reducing file size
+- ✅ Project Charter – Defining objectives and structuring the project
 
 ## Key Business Terms Explored
-📌 Gross Margin, Gross Margin %, Gross Sales, Net Sales
-📌 Pre-Invoice & Post-Invoice Deductions, Net Invoice Sales
-📌 Net Profit, Net Profit %, COGS (Cost of Goods Sold)
-📌 YTD (Year to Date), YTG (Year to Go)
-📌 Direct Sales, Retailers, Consumers, Distributors
+- 📌 Gross Margin, Gross Margin %, Gross Sales, Net Sales
+- 📌 Pre-Invoice & Post-Invoice Deductions, Net Invoice Sales
+- 📌 Net Profit, Net Profit %, COGS (Cost of Goods Sold)
+- 📌 YTD (Year to Date), YTG (Year to Go)
+- 📌 Direct Sales, Retailers, Consumers, Distributors
 
 💡 Your feedback is invaluable! Let’s keep exploring data-driven solutions together. 🚀
 
